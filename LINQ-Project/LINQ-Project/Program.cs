@@ -8,8 +8,10 @@ namespace LINQ_Project
         {
             FindStringInList findStringInList = new FindStringInList();
             Console.ReadKey();
-            
-
+            StringCompression.Program();
+            Console.ReadKey();
+            RemoveDuplicates removeDuplicates = new RemoveDuplicates();
+            Console.ReadKey();
         }
     }
 }
