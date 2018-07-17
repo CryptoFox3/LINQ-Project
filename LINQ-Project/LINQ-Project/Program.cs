@@ -6,7 +6,7 @@ namespace LINQ_Project
     {
         static void Main(string[] args)
         {
-            RemoveDuplicates.DisplayNamesNoDuplicates();
+            StringCompression.Program();
         }
     }
 }
