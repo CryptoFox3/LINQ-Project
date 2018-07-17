@@ -6,7 +6,10 @@ namespace LINQ_Project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            FindStringInList findStringInList = new FindStringInList();
+            Console.ReadKey();
+            
+
         }
     }
 }
