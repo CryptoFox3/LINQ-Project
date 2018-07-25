@@ -6,12 +6,17 @@ namespace LINQ_Project
     {
         static void Main(string[] args)
         {
+            //ClassGradesNoLowest classGrade = new ClassGradesNoLowest();
+            //Console.WriteLine(ClassGradesNoLowest.classGrades);
+            //Console.ReadKey();
             FindStringInList findStringInList = new FindStringInList();
             Console.ReadKey();
-            StringCompression.Program();
+            //StringCompression.Program();
+            //Console.ReadKey();
+            RemoveDuplicates.DisplayNamesNoDuplicates();
             Console.ReadKey();
-            RemoveDuplicates removeDuplicates = new RemoveDuplicates();
-            Console.ReadKey();
+            //ClassGradesNoLowest classGradesNoLowest = new ClassGradesNoLowest();
+            //Console.ReadKey();
         }
     }
 }

@@ -5,6 +5,8 @@ using System.Text;
 
 namespace LINQ_Project
 {
+
+    //CURRENTLY NOT FINISHED
     class StringCompression
     {
 
